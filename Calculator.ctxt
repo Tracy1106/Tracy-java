@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\n\n\ Calculator\ class\ including\ core\ algorighm\ for\ calculating\n
+comment1.params=a\ b
+comment1.target=int\ checkPriority(char,\ char)
+comment1.text=\n\ Check\ priority\ between\ operator\ <code>a</code>\ and\ <code>b</code>\n\ \n\ @param\ a\ operator\ a\n\ @param\ b\ operator\ b\n\ @return\ true\ if\ operator\ a\ has\ high\ priority\ else\ return\ false\n
+comment2.params=exp
+comment2.target=Calculator.ExpRes\ calculateExp(java.lang.String)
+comment2.text=\n\ Calculate\ by\ expression\n\ \n\ @param\ exp\ the\ expression\ input\ by\ user\n\ @return\ <code>ExpRes</code>\ including\ calculating\ resuult\ and\ message\n
+comment3.params=factor
+comment3.target=int\ calculateFactor(int)
+comment3.text=\n\ Calculate\ factorial\ with\ an\ original\ num\ <code>factor</code>\n\ \n\ @param\ factor\ the\ original\ number\ used\ for\ calculating\ factorial\n\ @return\ the\ factorial\ result\n
+numComments=4
